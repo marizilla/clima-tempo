@@ -1,4 +1,4 @@
-# desafio-de-javascript
+# Desafio de JavaScript
 Utilizando os conhecimentos já adquiridos em HTML, CSS em conjunto com o 
 JavaScript. Desenvolver um aplicativo que exibe a temperatura em tempo real.
 Utilizem as referências!
